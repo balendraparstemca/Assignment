@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Performance Optimization",
+      "author": "John Doe",
+      "category": "React",
+      "tags": ["React", "Performance", "Optimization"],
+      "likes": 120
+    },
+    {
+      "id": 2,
+      "title": "State Management in React",
+      "author": "Jane Smith",
+      "category": "State Management",
+      "tags": ["Redux", "Context API", "Hooks"],
+      "likes": 95
+    }
+  ]
